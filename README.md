@@ -90,78 +90,12 @@
 
 ### 🎯 Project Showcase
 
-<table>
-<tr>
-<td width="50%">
-
-#### 1️⃣ **Abhikalpan Asset Management**
-🔗 **[Visit Live App →](https://app.abhikalpan.co.in/)**
-
-**Status:** ✅ Production Deployed  
-**Impact:** 3+ sites | 1000+ assets tracked
-
-**Key Features:**
-- Multi-role dashboards
-- Real-time asset tracking
-- Bulk Excel imports
-- Auto-generated reports
-- Concurrent transactions
-- Admin reporting
-
-**Tech Stack:**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### 2️⃣ **IRIS Conversational AI**
-🔗 **[Visit Live Platform →](https://iris-two-roan.vercel.app/)**
-
-**Status:** 🚀 Pilot Deployment  
-**Impact:** Healthcare organizations
-
-**Key Features:**
-- Multi-agent RAG pipeline
-- Intent classification
-- SQL generation & validation
-- Explainable answers
-- Session tracking
-- Analytics dashboards
-
-**Tech Stack:**
-![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 3️⃣ **SMGolden**
-🔗 **[Visit Website →](https://smgolden.in/)**
-
-**Full-stack development** experience with modern web applications
-
-**Tech Stack:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-</td>
-<td width="50%">
-
-#### 📚 **Featured GitHub Project**
-🔗 **[Abhikalpan Repository →](https://github.com/SetterUk/Abhikalpan_Asset_management)**
-
-Production-ready asset management system with enterprise features
-
-</td>
-</tr>
-</table>
+| Project | Details | Tech Stack |
+|---------|---------|-----------|
+| **1️⃣ Abhikalpan Asset Management** 🔗 **[Visit Live App](https://app.abhikalpan.co.in/)** | **Status:** ✅ Production Deployed<br>**Impact:** 3+ sites \| 1000+ assets tracked<br>**Features:** Multi-role dashboards, Real-time asset tracking, Bulk Excel imports, Auto-generated reports, Concurrent transactions, Admin reporting | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **2️⃣ IRIS Conversational AI** 🔗 **[Visit Live Platform](https://iris-two-roan.vercel.app/)** | **Status:** 🚀 Pilot Deployment<br>**Impact:** Healthcare organizations<br>**Features:** Multi-agent RAG pipeline, Intent classification, SQL generation & validation, Explainable answers, Session tracking, Analytics dashboards | ![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **3️⃣ SMGolden** 🔗 **[Visit Website](https://smgolden.in/)** | Full-stack development experience with modern web applications | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **📚 Featured GitHub Project** 🔗 **[Abhikalpan Repository](https://github.com/SetterUk/Abhikalpan_Asset_management)** | Production-ready asset management system with enterprise features | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 
 ---
 
@@ -223,26 +157,34 @@ Intelligent QA pipeline with self-reflection and hallucination minimization:
 
 ## 🛠️ **Technical Skills**
 
+<div align="center">
+
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **AI/ML & Deep Learning**
 ![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
@@ -251,7 +193,7 @@ Intelligent QA pipeline with self-reflection and hallucination minimization:
 <div align="center">
 
 | Institution | Qualification | Details |
-|-------------|---------------|---------|
+|---|---|---|
 | **Shri Ramdeobaba College of Engineering** | B.Tech CSE (AIML) | CGPA: 8.35 (Till 6th sem) |
 | **Modern School** | Class XII & X | 91.4% (2022) \| 90.6% (2020) |
 
@@ -308,11 +250,7 @@ I'm always excited to discuss:
 - 🔬 Research and experimentation
 - 💼 Interesting opportunities
 
-</div>
-
 ### **📬 Get in Touch**
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushik4067@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-upadhyay-95565932b/)
