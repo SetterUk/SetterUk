@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-upadhyay-95565932b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SetterUk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/SetterUk)
 
 </div>
 
@@ -47,6 +47,9 @@ AIML engineer passionate about designing and deploying **production-grade AI/ML 
 - Integrated Supabase session persistence and analytics dashboards
 - Deployed pilots in healthcare organizations with real-time improvements
 
+### ✨ Other Experience
+**[SMGolden.in](https://smgolden.in/)** - Full-stack development experience
+
 ---
 
 ## 🎓 Education
@@ -59,7 +62,46 @@ Class XII: 91.4% (2022) | Class X: 90.6% (2020)
 
 ---
 
-## 🔬 Featured Projects
+## 🚀 Live Projects & Demos
+
+### 1️⃣ **Abhikalpan Asset Management SaaS**
+🔗 **[Visit Live App](https://app.abhikalpan.co.in/)**
+
+**Tech Stack:** Django, FastAPI, PostgreSQL, Redis, Sentry, WeasyPrint
+
+A comprehensive asset management system currently deployed in production across 3+ construction sites, tracking 1000+ assets with:
+- ✅ Multi-role dashboards (Admin, Manager, Technician)
+- ✅ Real-time asset tracking & lifecycle management
+- ✅ Automated Excel ingest for bulk uploads
+- ✅ PDF/Excel report generation
+- ✅ Concurrency-safe transactional operations
+- ✅ Monitoring & alerting via Sentry
+
+---
+
+### 2️⃣ **IRIS Conversational AI Platform**
+🔗 **[Visit Live Platform](https://iris-two-roan.vercel.app/)**
+
+**Tech Stack:** LangGraph, OpenAI, Supabase, React, FastAPI
+
+A multi-agent RAG pipeline designed for healthcare expert discovery with:
+- 🤖 Intent classification agent
+- 🛡️ RBAC-safe SQL generation & validation
+- 💬 Explainable answer composition with OpenAI
+- 📊 Analytics dashboards
+- 🔐 Session persistence with Supabase
+- ✅ Currently under pilot deployment in healthcare organizations
+
+---
+
+### 3️⃣ **SMGolden**
+🔗 **[Visit Website](https://smgolden.in/)**
+
+**Full-stack development experience** with dynamic web applications
+
+---
+
+## 🔬 Featured GitHub Projects
 
 ### 🥗 [NutriScanner Backend](https://github.com/SetterUk/NUTRI-SCANNNER-BACKEND)
 **Health Chatbot App | FastAPI, LangGraph, Groq Llama-3.3**
